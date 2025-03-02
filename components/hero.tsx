@@ -21,7 +21,7 @@ export default function Hero() {
           </p>
         </div>
         <p className="max-w-[700px] text-muted-foreground md:text-xl">
-          {t("experience")}
+          {t("experience_work")}
         </p>
         <div className="flex flex-col sm:flex-row gap-4 mt-8">
           <Button asChild size="lg">
