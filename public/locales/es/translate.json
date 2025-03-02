@@ -34,6 +34,18 @@
   "tools_and_workflow": "Herramientas y Flujo de trabajo",
   "tools_and_workflow_description": "Herramientas y procesos de desarrollo",
   "backend_and_deployment": "Backend y Despliegue",
-  "backend_and_deployment_description": "Tecnologías del lado del servidor y despliegue"
+  "backend_and_deployment_description": "Tecnologías del lado del servidor y despliegue",
+
+  "featured_projects": "Proyectos Destacados",
+  "featured_projects_description": "Una selección de mi trabajo reciente",
+  "journal_app": "Aplicación de Diario",
+  "journal_app_description": "Una aplicación de diario completa construida con React, Material UI y Redux. Integra Firebase para servicios de backend y autenticación de Google, y usa Cloudinary para la subida de imágenes. La aplicación permite a los usuarios crear, editar y eliminar entradas de diario fácilmente, proporcionando una experiencia de usuario fluida e intuitiva.",
+  "search_gifs": "Buscar Gifs",
+  "search_gifs_description": "Una aplicación interactiva de búsqueda de GIFs utilizando la API de Giphy. Construida con React, incluye una función de búsqueda dinámica que permite a los usuarios encontrar y mostrar GIFs según palabras clave, mejorando la experiencia del usuario con retroalimentación visual instantánea.",
+  "heroes_spa": "Heroes SPA",
+  "heroes_spa_description": "Heroes SPA es una aplicación de una sola página construida con React y React Router DOM. Presenta una colección de héroes de DC y Marvel, permitiendo a los usuarios explorar y buscar sus personajes favoritos. La aplicación también incluye una funcionalidad básica de inicio y cierre de sesión para demostrar flujos de autenticación en un entorno React.",
+  "code": "Código",
+  "live_demo": "Demo en Vivo"
+
 
 }

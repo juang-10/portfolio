@@ -34,5 +34,16 @@
   "tools_and_workflow": "Tools & Workflow",
   "tools_and_workflow_description": "Development tools and processes",
   "backend_and_deployment": "Backend & Deployment",
-  "backend_and_deployment_description": "Server-side technologies and deployment"
+  "backend_and_deployment_description": "Server-side technologies and deployment",
+
+  "featured_projects": "Featured Projects",
+  "featured_projects_description": "A selection of my recent work",
+  "journal_app": "Journal App",
+  "journal_app_description": "A comprehensive journal application built with React, Material UI, and Redux. It integrates Firebase for backend services and Google authentication, and uses Cloudinary for image uploads. The app allows users to create, edit, and delete journal entries with ease, providing a seamless and intuitive user experience.",
+  "search_gifs": "Search Gifs",
+  "search_gifs_description": "An interactive GIF search application using the Giphy API. Built with React, it features a dynamic search function that lets users find and display GIFs based on keywords, enhancing the user experience with instant visual feedback.",
+  "heroes_spa": "Heroes SPA",
+  "heroes_spa_description": "Heroes SPA is a Single Page Application built with React and React Router DOM. It showcases a collection of DC and Marvel heroes, allowing users to browse and search for their favorite characters. The application also includes a basic login and logout feature to demonstrate authentication flows within a React environment.",
+  "code": "Code",
+  "live_demo": "Live Demo"
 }
