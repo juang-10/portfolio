@@ -63,5 +63,20 @@
   "angular_fundamentals_description": "Introduction to Angular framework and component-based architecture",
   "udemy": "Udemy",
   "software_engineer": "Software Engineer",
-  "university_surcolombiana": "University Surcolombiana"
+  "university_surcolombiana": "University Surcolombiana",
+
+  "get_in_touch_description": "Have a project in mind or want to discuss opportunities? I'd love to hear from you.",
+  "contact_information": "Contact Information",
+  "contact_information_description": "Feel free to reach out through any of these channels",
+  "email": "Email",
+  "linkedin": "LinkedIn",
+  "availability": "I'm currently open to freelance opportunities and full-time positions. Don't hesitate to reach out if you think we could work together!",
+  "send_message": "Send a Message",
+  "send_message_description": "Fill out the form below and I'll get back to you as soon as possible",
+  "name": "Name",
+  "email_placeholder": "Your email",
+  "name_placeholder": "Your name",
+  "message": "Message",
+  "message_placeholder": "Your message",
+  "send_button": "Send Message"
 }

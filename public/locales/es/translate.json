@@ -66,5 +66,20 @@
   "udemy": "Udemy",
   "platzi": "Platzi",
   "software_engineer": "Ingeniero de Software",
-  "university_surcolombiana": "Universidad Surcolombiana"
+  "university_surcolombiana": "Universidad Surcolombiana",
+
+  "get_in_touch_description": "¿Tienes un proyecto en mente o quieres discutir oportunidades? Me encantaría saber de ti.",
+  "contact_information": "Información de Contacto",
+  "contact_information_description": "No dudes en contactarme a través de cualquiera de estos canales",
+  "email": "Correo Electrónico",
+  "linkedin": "LinkedIn",
+  "availability": "Actualmente estoy abierto a oportunidades como freelancer y posiciones a tiempo completo. ¡No dudes en contactarme si crees que podemos trabajar juntos!",
+  "send_message": "Enviar un Mensaje",
+  "send_message_description": "Completa el formulario a continuación y te responderé lo antes posible",
+  "name": "Nombre",
+  "email_placeholder": "Tu correo electrónico",
+  "name_placeholder": "Tu nombre",
+  "message": "Mensaje",
+  "message_placeholder": "Tu mensaje",
+  "send_button": "Enviar Mensaje"
 }
