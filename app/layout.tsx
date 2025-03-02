@@ -22,11 +22,13 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
-          <div className="flex min-h-screen flex-col">
-            <Header />
-            {children}
-            <Footer />
-          </div>
+          <Suspense fallback={<div>Loading...</div>}>
+            <div className="flex min-h-screen flex-col">
+              <Header />
+              {children}
+              <Footer />
+            </div>
+          </Suspense>
         </ThemeProvider>
       </body>
     </html>
@@ -36,3 +38,4 @@ export default function RootLayout({
 
 
 import './globals.css'
+import { Suspense } from "react"
