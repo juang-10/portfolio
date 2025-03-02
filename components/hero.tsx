@@ -21,25 +21,24 @@ export default function Hero() {
           </p>
         </div>
         <p className="max-w-[700px] text-muted-foreground md:text-xl">
-          With 2 years of experience in React and TypeScript, I create responsive, user-friendly web applications that
-          deliver exceptional user experiences.
+          {t("experience")}
         </p>
         <div className="flex flex-col sm:flex-row gap-4 mt-8">
           <Button asChild size="lg">
-            <Link href="#contact">Get in Touch</Link>
+            <Link href="#contact">{t("get_in_touch")}</Link>
           </Button>
           <Button asChild variant="outline" size="lg">
-            <Link href="#projects">View My Work</Link>
+            <Link href="#projects">{t("view_my_work")}</Link>
           </Button>
         </div>
         <div className="flex gap-4 mt-6">
           <Button asChild variant="ghost" size="icon">
-            <Link href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+            <Link href="https://github.com/juang-10" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
               <Github className="h-5 w-5" />
             </Link>
           </Button>
           <Button asChild variant="ghost" size="icon">
-            <Link href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+            <Link href="https://www.linkedin.com/in/juan-gonzalez-salazar/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
               <Linkedin className="h-5 w-5" />
             </Link>
           </Button>
