@@ -1,13 +1,19 @@
+'use client'
+
 import Link from "next/link"
 import { Github, Linkedin, Mail } from "lucide-react"
+import { useTranslation } from "react-i18next";
 
 export default function Footer() {
+
+  const { t } = useTranslation("translate");
+
   return (
     <footer className="w-full border-t py-6">
       <div className="container px-4 md:px-6 flex flex-col md:flex-row items-center justify-between gap-4">
         <div className="text-center md:text-left">
           <p className="text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} Juan David González Salazar. All rights reserved.
+            &copy; {new Date().getFullYear()} Juan David González Salazar. {t("all_rights_reserved")}
           </p>
         </div>
         <div className="flex items-center gap-4">
