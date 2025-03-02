@@ -61,19 +61,19 @@ export default function Contact() {
             <CardContent className="space-y-6">
               <div className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-primary" />
-                <a href="mailto:juan.gonzalez@example.com" className="text-sm hover:underline">
-                  juan.gonzalez@example.com
+                <a href="mailto:juandgonzalezs29@gmail.com" className="text-sm hover:underline">
+                  juandgonzalezs29@gmail.com
                 </a>
               </div>
               <div className="flex items-center gap-3">
                 <Linkedin className="h-5 w-5 text-primary" />
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/juan-gonzalez-salazar/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm hover:underline"
                 >
-                  linkedin.com/in/juandavidgonzalez
+                  Juan David González
                 </a>
               </div>
               <div className="pt-4">
