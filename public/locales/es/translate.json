@@ -2,5 +2,9 @@
   "description": "Desarrollador Frontend: Construyendo Aplicaciones Web Escalables y Atractivas",
   "experience": "Con 2 años de experiencia en React y TypeScript, creo aplicaciones web responsivas y fáciles de usar que ofrecen experiencias de usuario excepcionales.",
   "get_in_touch": "Ponte en contacto",
-  "view_my_work": "Mira mi trabajo"
+  "view_my_work": "Mira mi trabajo",
+  "about_me": "Sobre mí",
+  "first_text_about_me": "Soy un apasionado Desarrollador Frontend con un fuerte enfoque en la creación de aplicaciones web intuitivas y de alto rendimiento. Con 2 años de experiencia en React y TypeScript, he desarrollado una comprensión profunda de las tecnologías frontend modernas y las mejores prácticas.",
+  "second_text_about_me": "Mi enfoque combina experiencia técnica con un gran sentido del diseño, lo que me permite crear aplicaciones que no solo son funcionales, sino también visualmente atractivas y fáciles de usar. Destaco en la optimización de experiencias de usuario, el trabajo con APIs y la colaboración en equipos ágiles.",
+  "third_text_about_me": "Estoy en constante aprendizaje y explorando nuevas tecnologías para mantenerme a la vanguardia del desarrollo web. Mi objetivo es crear aplicaciones web que generen un impacto positivo y ofrezcan experiencias de usuario excepcionales."
 }

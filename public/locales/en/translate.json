@@ -2,5 +2,9 @@
   "description": "Frontend Developer: Building Scalable & Engaging Web Applications",
   "experience": "With 2 years of experience in React and TypeScript, I create responsive, user-friendly web applications that deliver exceptional user experiences.",
   "get_in_touch": "Get in touch",
-  "view_my_work": "View my work"
+  "view_my_work": "View my work",
+  "about_me": "About me",
+  "first_text_about_me": "My approach combines technical expertise with a keen eye for design, allowing me to build applications that are not only functional but also visually appealing and user-friendly. I excel at optimizing user experiences, working with APIs, and collaborating in agile teams.",
+  "second_text_about_me": "I'm dedicated to delivering high-quality code and engaging user interfaces that meet the unique needs of each project. I thrive in collaborative environments and enjoy working with cross-functional teams to bring ideas to life.",
+  "third_text_about_me": "I'm constantly learning and exploring new technologies to stay at the forefront of web development. My goal is to create web applications that make a positive impact and provide exceptional user experiences."
 }
