@@ -11,7 +11,7 @@ export default function Certifications() {
     {
       title: t("react_expert_course"),
       issuer: t("udemy"),
-      date: t("advanced_react_redux_date"),
+      date: t("react_expert_course_date"),
       description: t("advanced_react_redux_description"),
     },
     {
@@ -23,7 +23,7 @@ export default function Certifications() {
     {
       title: t("angular_fundamentals"),
       issuer: t("platzi"),
-      date: t("angular_fundamentals_date"),
+      date: t("angular_fundamentals_course_date"),
       description: t("angular_fundamentals_description"),
     },
   ];
