@@ -62,6 +62,7 @@ export const enTranslation = {
   "angular_fundamentals": "Angular Fundamentals",
   "angular_fundamentals_description": "Introduction to Angular framework and component-based architecture",
   "udemy": "Udemy",
+  "platzi": "Platzi",
   "software_engineer": "Software Engineer",
   "university_surcolombiana": "University Surcolombiana",
 
@@ -87,6 +88,7 @@ export const enTranslation = {
   "contact": "Contact",
   "language_en": "English",
   "language_es": "Spanish",
+  "colombia": "Colombia",
 
   "all_rights_reserved": "All rights reserved.",
 }

@@ -90,6 +90,7 @@ export const esTranslation = {
   "contact": "Contacto",
   "language_en": "Inglés",
   "language_es": "Español",
+  "colombia": "Colombia",
 
   "all_rights_reserved": "Todos los derechos reservados.",
 }
