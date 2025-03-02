@@ -25,5 +25,14 @@
   "worked_with_no_code_tools": "Worked with no-code tools such as WordPress, Shopify, and Webflow to deliver innovative web solutions.",
   "developed_wp_wpbakery": "Developed projects in WordPress using the WPBakery page builder and premium themes like Salient, crafting modern and personalized designs.",
   "build_minisites_kcp": "Built mini-sites for Kimberly Clark Professional using HTML, CSS, and JavaScript, creating engaging digital experiences.",
-  "responsive_email_templates": "Coded email templates for marketing campaigns."
+  "responsive_email_templates": "Coded email templates for marketing campaigns.",
+
+  "skills_and_technologies": "Skills & Technologies",
+  "tools_and_technologies": "The Tools & Technologies I Work With",
+  "frontend": "Frontend",
+  "frontend_description": "Technologies for building user interfaces",
+  "tools_and_workflow": "Tools & Workflow",
+  "tools_and_workflow_description": "Development tools and processes",
+  "backend_and_deployment": "Backend & Deployment",
+  "backend_and_deployment_description": "Server-side technologies and deployment"
 }
