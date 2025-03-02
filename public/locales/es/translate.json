@@ -3,8 +3,27 @@
   "experience": "Con 2 años de experiencia en React y TypeScript, creo aplicaciones web responsivas y fáciles de usar que ofrecen experiencias de usuario excepcionales.",
   "get_in_touch": "Ponte en contacto",
   "view_my_work": "Mira mi trabajo",
+
   "about_me": "Sobre mí",
   "first_text_about_me": "Soy un apasionado Desarrollador Frontend con un fuerte enfoque en la creación de aplicaciones web intuitivas y de alto rendimiento. Con 2 años de experiencia en React y TypeScript, he desarrollado una comprensión profunda de las tecnologías frontend modernas y las mejores prácticas.",
   "second_text_about_me": "Mi enfoque combina experiencia técnica con un gran sentido del diseño, lo que me permite crear aplicaciones que no solo son funcionales, sino también visualmente atractivas y fáciles de usar. Destaco en la optimización de experiencias de usuario, el trabajo con APIs y la colaboración en equipos ágiles.",
-  "third_text_about_me": "Estoy en constante aprendizaje y explorando nuevas tecnologías para mantenerme a la vanguardia del desarrollo web. Mi objetivo es crear aplicaciones web que generen un impacto positivo y ofrezcan experiencias de usuario excepcionales."
+  "third_text_about_me": "Estoy en constante aprendizaje y explorando nuevas tecnologías para mantenerme a la vanguardia del desarrollo web. Mi objetivo es crear aplicaciones web que generen un impacto positivo y ofrezcan experiencias de usuario excepcionales.",
+
+  "professional_experience": "Experiencia Profesional",
+  "my_journey_frontend_developer": "Mi Trayectoria como Desarrollador Frontend",
+  "frontend_developer": "Desarrollador Frontend",
+  "january_2023": "Enero 2023",
+  "present": "Presente",
+  "enhanced_ui_material_ui": "Interfazes de usuario mejoradas usando Material UI, lo que resultó en una mejora del 30% en las métricas de interacción del usuario.",
+  "implemented_redux_state_management": "Implementé Redux para la gestión de estado, mejorando el rendimiento y la mantenibilidad de la aplicación.",
+  "utilized_react_router_navigation": "Utilicé React Router para una navegación fluida, reduciendo los tiempos de carga de página en un 25%.",
+  "collaborated_backend_restful_apis": "Colaboré con desarrolladores backend para integrar APIs RESTful, asegurando un flujo de datos fluido entre los sistemas frontend y backend.",
+  "participated_agile_processes": "Participé en procesos de desarrollo ágil, contribuyendo a la planificación de sprints, reuniones diarias y retrospectivas.",
+  "optimized_app_performance": "Optimicé el rendimiento de la aplicación a través de refactorización de código e implementación de buenas prácticas.",
+  "web_master_developer": "Desarrollador Web Master",
+  "web_master_trayectory": "Julio 2020 - Diciembre 2022",
+  "worked_with_no_code_tools": "Trabajé con herramientas no-code como WordPress, Shopify y Webflow para ofrecer soluciones web innovadoras",
+  "developed_wp_wpbakery": "Desarrollé proyectos en WordPress utilizando el constructor de páginas WPBakery y temas premium como Salient, creando diseños modernos y personalizados.",
+  "build_minisites_kcp": "Construí mini-sitios para Kimberly Clark Professional utilizando HTML, CSS y JavaScript, creando experiencias digitales atractivas.",
+  "responsive_email_templates": "Codifiqué plantillas de correo electrónico para campañas de marketing."
 }

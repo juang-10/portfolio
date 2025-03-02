@@ -3,8 +3,27 @@
   "experience": "With 2 years of experience in React and TypeScript, I create responsive, user-friendly web applications that deliver exceptional user experiences.",
   "get_in_touch": "Get in touch",
   "view_my_work": "View my work",
+
   "about_me": "About me",
   "first_text_about_me": "My approach combines technical expertise with a keen eye for design, allowing me to build applications that are not only functional but also visually appealing and user-friendly. I excel at optimizing user experiences, working with APIs, and collaborating in agile teams.",
   "second_text_about_me": "I'm dedicated to delivering high-quality code and engaging user interfaces that meet the unique needs of each project. I thrive in collaborative environments and enjoy working with cross-functional teams to bring ideas to life.",
-  "third_text_about_me": "I'm constantly learning and exploring new technologies to stay at the forefront of web development. My goal is to create web applications that make a positive impact and provide exceptional user experiences."
+  "third_text_about_me": "I'm constantly learning and exploring new technologies to stay at the forefront of web development. My goal is to create web applications that make a positive impact and provide exceptional user experiences.",
+
+  "professional_experience": "Professional Experience",
+  "my_journey_frontend_developer": "My Journey as a Frontend Developer",
+  "frontend_developer": "Frontend Developer",
+  "january_2023": "January 2023",
+  "present": "Present",
+  "enhanced_ui_material_ui": "Enhanced user interfaces using Material UI, resulting in a 30% improvement in user engagement metrics.",
+  "implemented_redux_state_management": "Implemented Redux for state management, improving application performance and maintainability.",
+  "utilized_react_router_navigation": "Utilized React Router for seamless navigation, reducing page load times by 25%.",
+  "collaborated_backend_restful_apis": "Collaborated with backend developers to integrate RESTful APIs, ensuring smooth data flow between frontend and backend systems.",
+  "participated_agile_processes": "Participated in agile development processes, contributing to sprint planning, daily stand-ups, and retrospectives.",
+  "optimized_app_performance": "Optimized application performance through code refactoring and implementation of best practices.",
+  "web_master_developer": "Web Master Developer",
+  "web_master_trayectory": "July 2020 - December 2022",
+  "worked_with_no_code_tools": "Worked with no-code tools such as WordPress, Shopify, and Webflow to deliver innovative web solutions.",
+  "developed_wp_wpbakery": "Developed projects in WordPress using the WPBakery page builder and premium themes like Salient, crafting modern and personalized designs.",
+  "build_minisites_kcp": "Built mini-sites for Kimberly Clark Professional using HTML, CSS, and JavaScript, creating engaging digital experiences.",
+  "responsive_email_templates": "Coded email templates for marketing campaigns."
 }
