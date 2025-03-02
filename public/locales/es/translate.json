@@ -45,7 +45,26 @@
   "heroes_spa": "Heroes SPA",
   "heroes_spa_description": "Heroes SPA es una aplicación de una sola página construida con React y React Router DOM. Presenta una colección de héroes de DC y Marvel, permitiendo a los usuarios explorar y buscar sus personajes favoritos. La aplicación también incluye una funcionalidad básica de inicio y cierre de sesión para demostrar flujos de autenticación en un entorno React.",
   "code": "Código",
-  "live_demo": "Demo en Vivo"
+  "live_demo": "Demo en Vivo",
 
 
+  "certifications_education": "Certificaciones y Educación",
+  "certifications_education_description": "Mi formación académica y desarrollo profesional",
+  "certifications": "Certificaciones",
+  "education": "Educación",
+  "react_expert_course": "React: De cero a experto (Hooks y Mern)",
+  "react_expert_course_date": "13 de febrero de 2025",
+  "modern_js_course": "JavaScript Moderno: Guía para dominar el lenguaje",
+  "modern_js_course_date": "5 de enero de 2022",
+  "angular_fundamentals_course": "Fundamentos de Angular",
+  "angular_fundamentals_course_date": "28 de noviembre de 2022",
+  "advanced_react_redux_description": "Curso completo sobre patrones avanzados de React y gestión de estado con Redux",
+  "modern_js_complete_guide": "JavaScript: La Guía Completa",
+  "modern_js_complete_guide_description": "Curso en profundidad sobre JavaScript que cubre características de ES6+ y prácticas modernas",
+  "angular_fundamentals": "Fundamentos de Angular",
+  "angular_fundamentals_description": "Introducción al framework Angular y la arquitectura basada en componentes",
+  "udemy": "Udemy",
+  "platzi": "Platzi",
+  "software_engineer": "Ingeniero de Software",
+  "university_surcolombiana": "Universidad Surcolombiana"
 }

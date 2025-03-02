@@ -45,5 +45,23 @@
   "heroes_spa": "Heroes SPA",
   "heroes_spa_description": "Heroes SPA is a Single Page Application built with React and React Router DOM. It showcases a collection of DC and Marvel heroes, allowing users to browse and search for their favorite characters. The application also includes a basic login and logout feature to demonstrate authentication flows within a React environment.",
   "code": "Code",
-  "live_demo": "Live Demo"
+  "live_demo": "Live Demo",
+
+  "certifications_education": "Certifications & Education",
+  "certifications_education_description": "My academic background and professional development",
+  "certifications": "Certifications",
+  "education": "Education",
+  "react_expert_course": "React: From Beginner to Expert (Hooks & Mern)",
+  "react_expert_course_date": "February 13, 2025",
+  "modern_js_course": "Modern JavaScript: Guide to Mastering the Language",
+  "modern_js_course_date": "January 5, 2022",
+  "angular_fundamentals_course": "Angular Fundamentals",
+  "angular_fundamentals_course_date": "November 28, 2022",
+  "advanced_react_redux_description": "Comprehensive course on advanced React patterns and Redux state management",
+  "modern_js_complete_guide_description": "In-depth JavaScript course covering ES6+ features and modern practices",
+  "angular_fundamentals": "Angular Fundamentals",
+  "angular_fundamentals_description": "Introduction to Angular framework and component-based architecture",
+  "udemy": "Udemy",
+  "software_engineer": "Software Engineer",
+  "university_surcolombiana": "University Surcolombiana"
 }
