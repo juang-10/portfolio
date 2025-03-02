@@ -1,6 +1,6 @@
-{
+export const enTranslation = {
   "description": "Frontend Developer: Building Scalable & Engaging Web Applications",
-  "experience": "With 2 years of experience in React and TypeScript, I create responsive, user-friendly web applications that deliver exceptional user experiences.",
+  "experience_work": "With 2 years of experience in React and TypeScript, I create responsive, user-friendly web applications that deliver exceptional user experiences.",
   "get_in_touch": "Get in touch",
   "view_my_work": "View my work",
 
@@ -78,5 +78,13 @@
   "name_placeholder": "Your name",
   "message": "Message",
   "message_placeholder": "Your message",
-  "send_button": "Send Message"
+  "send_button": "Send Message",
+  
+  "about": "About",
+  "experience": "Experience",
+  "skills": "Skills",
+  "projects": "Projects",
+  "contact": "Contact",
+  "language_en": "English",
+  "language_es": "Español"
 }

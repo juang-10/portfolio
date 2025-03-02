@@ -1,6 +1,6 @@
-{
+export const esTranslation = {
   "description": "Desarrollador Frontend: Construyendo Aplicaciones Web Escalables y Atractivas",
-  "experience": "Con 2 años de experiencia en React y TypeScript, creo aplicaciones web responsivas y fáciles de usar que ofrecen experiencias de usuario excepcionales.",
+  "experience_work": "Con 2 años de experiencia en React y TypeScript, creo aplicaciones web responsivas y fáciles de usar que ofrecen experiencias de usuario excepcionales.",
   "get_in_touch": "Ponte en contacto",
   "view_my_work": "Mira mi trabajo",
 
@@ -81,5 +81,13 @@
   "name_placeholder": "Tu nombre",
   "message": "Mensaje",
   "message_placeholder": "Tu mensaje",
-  "send_button": "Enviar Mensaje"
+  "send_button": "Enviar Mensaje",
+
+  "about": "Sobre Mí",
+  "experience": "Experiencia",
+  "skills": "Habilidades",
+  "projects": "Proyectos",
+  "contact": "Contacto",
+  "language_en": "Inglés",
+  "language_es": "Español"
 }
