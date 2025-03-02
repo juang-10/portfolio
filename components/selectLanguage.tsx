@@ -1,6 +1,6 @@
 'use client'
 
-import { ChangeEvent, useState } from "react";
+import { ChangeEvent, useEffect, useState } from "react";
 import i18n from 'i18next';
 import { useTranslation } from "react-i18next";
 
@@ -18,6 +18,11 @@ export const SelectLanguage = () => {
     setLan(value);
     i18n.changeLanguage(value);
   }
+
+  useEffect(() => {
+    setLan(i18n.language);
+  }, [i18n.language]);
+
   return (
     <select
       value={lan}
