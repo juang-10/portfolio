@@ -1,11 +1,11 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, ChangeEvent } from "react"
 import Link from "next/link"
 import { ThemeToggle } from "@/components/theme-toggle"
 import { Button } from "@/components/ui/button"
 import { Menu, X } from "lucide-react"
-import i18n from 'i18next';
+import { SelectLanguage } from "@/components/selectLanguage"
 
 const navItems = [
   { name: "About", href: "#about" },
@@ -16,18 +16,9 @@ const navItems = [
   { name: "Contact", href: "#contact" },
 ]
 
-const languages = [
-  { name: "English", code: "en" },
-  { name: "Español", code: "es" },
-]
-
 export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false)
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
-
-  const changeLanguage = (lng: string) => {
-    i18n.changeLanguage(lng);
-  }
 
   useEffect(() => {
     const handleScroll = () => {
@@ -56,10 +47,12 @@ export default function Header() {
             </Link>
           ))}
           <ThemeToggle />
+          <SelectLanguage />
         </nav>
 
         {/* Mobile Navigation */}
         <div className="flex items-center md:hidden">
+          <SelectLanguage />
           <ThemeToggle />
           <Button
             variant="ghost"
