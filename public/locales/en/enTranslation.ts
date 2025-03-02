@@ -86,5 +86,7 @@ export const enTranslation = {
   "projects": "Projects",
   "contact": "Contact",
   "language_en": "English",
-  "language_es": "Español"
+  "language_es": "Spanish",
+
+  "all_rights_reserved": "All rights reserved.",
 }
