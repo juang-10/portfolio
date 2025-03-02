@@ -1,22 +1,23 @@
 "use client"
 
-import { useState, useEffect, ChangeEvent } from "react"
+import { useState, useEffect } from "react"
 import Link from "next/link"
 import { ThemeToggle } from "@/components/theme-toggle"
 import { Button } from "@/components/ui/button"
 import { Menu, X } from "lucide-react"
 import { SelectLanguage } from "@/components/selectLanguage"
-
-const navItems = [
-  { name: "About", href: "#about" },
-  { name: "Experience", href: "#experience" },
-  { name: "Skills", href: "#skills" },
-  { name: "Projects", href: "#projects" },
-  { name: "Certifications", href: "#certifications" },
-  { name: "Contact", href: "#contact" },
-]
+import { useTranslation } from "react-i18next"
 
 export default function Header() {
+  const { t } = useTranslation("translate")
+  const navItems = [
+    { name: t("about"), href: "#about" },
+    { name: t("experience"), href: "#experience" },
+    { name: t("skills"), href: "#skills" },
+    { name: t("projects"), href: "#projects" },
+    { name: t("certifications"), href: "#certifications" },
+    { name: t("contact"), href: "#contact" },
+  ]
   const [isScrolled, setIsScrolled] = useState(false)
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
@@ -42,7 +43,7 @@ export default function Header() {
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center gap-6">
           {navItems.map((item) => (
-            <Link key={item.name} href={item.href} className="text-sm font-medium hover:text-primary transition-colors">
+            <Link key={item.href} href={item.href} className="text-sm font-medium hover:text-primary transition-colors">
               {item.name}
             </Link>
           ))}
@@ -72,7 +73,7 @@ export default function Header() {
           <div className="container py-4 flex flex-col space-y-4">
             {navItems.map((item) => (
               <Link
-                key={item.name}
+                key={item.href}
                 href={item.href}
                 className="text-sm font-medium hover:text-primary transition-colors py-2"
                 onClick={() => setMobileMenuOpen(false)}
