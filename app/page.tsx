@@ -7,12 +7,11 @@ import Skills from "@/components/skills"
 import Projects from "@/components/projects"
 import Certifications from "@/components/certifications"
 import Contact from "@/components/contact"
-import { Suspense } from "react"
 import "../config/i18next.config"
 
 export default function Home() {
   return (
-    <Suspense fallback="loading">
+    <main className="flex min-h-screen flex-col items-center">
       <Hero />
       <About />
       <Experience />
@@ -20,7 +19,7 @@ export default function Home() {
       <Projects />
       <Certifications />
       <Contact />
-    </Suspense>
+    </main>
   )
 }
 
