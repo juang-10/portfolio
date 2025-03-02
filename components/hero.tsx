@@ -10,7 +10,7 @@ export default function Hero() {
   const { t } = useTranslation("translate");
 
   return (
-    <section className="w-full min-h-screen flex items-center justify-center pt-16">
+    <section className="w-full min-h-screen flex items-center justify-center pt-16 bg-muted/50">
       <div className="container px-4 md:px-6 flex flex-col items-center text-center space-y-8">
         <div className="space-y-2">
           <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl">
