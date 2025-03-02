@@ -18,7 +18,8 @@ export const SelectLanguage = () => {
   
 
   const changeLanguage = (lang: string) => {
-    setLan(lang);
+    const langUpper = lang.toUpperCase();
+    setLan(langUpper);
     i18n.changeLanguage(lang);
   }
 
@@ -32,7 +33,7 @@ export const SelectLanguage = () => {
       <DropdownMenuTrigger asChild>
         <Button variant="ghost" size="sm" className="flex items-center gap-1" aria-label="Change language">
           <Globe className="h-4 w-4" />
-          <span>{lan.toLocaleUpperCase()}</span>
+          <span>{lan}</span>
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end">
