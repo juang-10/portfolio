@@ -45,7 +45,7 @@ export const esTranslation = {
   "heroes_spa": "Heroes SPA",
   "heroes_spa_description": "Heroes SPA es una aplicación de una sola página construida con React y React Router DOM. Presenta una colección de héroes de DC y Marvel, permitiendo a los usuarios explorar y buscar sus personajes favoritos. La aplicación también incluye una funcionalidad básica de inicio y cierre de sesión para demostrar flujos de autenticación en un entorno React.",
   "code": "Código",
-  "live_demo": "Demo en Vivo",
+  "live_demo": "Demo",
 
 
   "certifications_education": "Certificaciones y Educación",
