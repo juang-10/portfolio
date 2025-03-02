@@ -22,6 +22,11 @@ export const SelectLanguage = () => {
     i18n.changeLanguage(lang);
   }
 
+  useEffect(() => {
+    setLan(i18n.language);
+  }, [i18n.language]);
+  
+
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
