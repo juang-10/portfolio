@@ -2,6 +2,7 @@
 
 import { ChangeEvent, useState } from "react";
 import i18n from 'i18next';
+import { useTranslation } from "react-i18next";
 
 const languages = [
   { name: "English", code: "en" },
@@ -9,12 +10,13 @@ const languages = [
 ]
 
 export const SelectLanguage = () => {
-  const [ lan, setLan ] = useState('en')
+  const { i18n } = useTranslation();
+  const [ lan, setLan ] = useState(i18n.language);
 
   const changeLanguage = (e: ChangeEvent<HTMLSelectElement>) => {
     const value = e.target.value
     setLan(value);
-    i18n.changeLanguage(value ? value : 'en');
+    i18n.changeLanguage(value);
   }
   return (
     <select
