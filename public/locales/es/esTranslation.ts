@@ -89,5 +89,7 @@ export const esTranslation = {
   "projects": "Proyectos",
   "contact": "Contacto",
   "language_en": "Inglés",
-  "language_es": "Español"
+  "language_es": "Español",
+
+  "all_rights_reserved": "Todos los derechos reservados.",
 }
