@@ -93,4 +93,5 @@ export const esTranslation = {
   "colombia": "Colombia",
 
   "all_rights_reserved": "Todos los derechos reservados.",
+  "message_sent_success": "¡Mensaje enviado con éxito! Te responderé pronto."
 }

@@ -91,4 +91,5 @@ export const enTranslation = {
   "colombia": "Colombia",
 
   "all_rights_reserved": "All rights reserved.",
+  "message_sent_success": "Message sent successfully! I'll get back to you soon."
 }
